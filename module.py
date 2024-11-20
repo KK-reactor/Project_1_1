@@ -1,0 +1,2 @@
+jmeno = "Peter"
+print(jmeno)
